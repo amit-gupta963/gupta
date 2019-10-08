@@ -1,0 +1,3 @@
+findstr command is used for searching pattern line by line
+
+ex: findstr pattern  filename
